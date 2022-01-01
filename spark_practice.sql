@@ -2,7 +2,7 @@ pyspark2 \
 --master yarn \
 --conf spark.ui.port=0 \
 --conf spark.sql.warehouse.dir=/user/itv000155/warehouse
-
+---
 --------------------
 spark. \
 read. \
